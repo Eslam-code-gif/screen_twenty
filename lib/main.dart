@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.black87,
-          title: Text("Gradient Container",
+          title: Text("Column And Row",
             style: TextStyle(
                 color: Colors.amber,
                 fontSize: 24,
